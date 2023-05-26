@@ -207,6 +207,9 @@ plt.show()
 ![Screenshot 2023-05-26 202550](https://github.com/swetha1510/Ex-08-Data-Visualization-/assets/120623583/f7d6d206-c079-4fa5-a307-443616f70d39)
 ![Screenshot 2023-05-26 202622](https://github.com/swetha1510/Ex-08-Data-Visualization-/assets/120623583/bc4f318d-7eb2-4245-9e86-87b7a7fd1c8f)
 
+## RESULT:
+Thus, Data Visualization is performed on the given dataset and save the data to a file.
+
 
 
 
